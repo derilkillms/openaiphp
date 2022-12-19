@@ -7,3 +7,6 @@ OPEN AI with PHP
 4. Open inspect Element Browser > Network
 5. Get bearer token 
 ![barrier](https://user-images.githubusercontent.com/49135753/208383213-75ce1a22-123c-4978-8499-8472ef38b208.png)
+
+6. Put in your code
+7. Run code
